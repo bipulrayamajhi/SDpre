@@ -1,0 +1,8 @@
+public class Objective4lab4{
+public static void main(String[] args){
+int i =6;
+if(i%2==0){
+System.out.prin
+}
+}
+}
